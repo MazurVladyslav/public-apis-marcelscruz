@@ -1439,6 +1439,7 @@
 | [Travel Risk](https://travelriskapi.com) | Government travel advisories, disaster and conflict alerts and country risk scores, plus flights, airports and in-flight Wi-Fi | `apiKey` | Yes |
 | [UK Companies House](https://developer.company-information.service.gov.uk/) | UK Companies House Data from the UK government | `OAuth` | Unknown |
 | [USAspending.gov](https://api.usaspending.gov/) | US federal spending data | No | Unknown |
+| [Vergabeweiser](https://vergabeweiser.de) | German public tenders and contract awards from open procurement data | No | Yes |
 
 **[⬆ Back to Index](#index)**
 
